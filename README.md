@@ -83,47 +83,73 @@ Example Queries
 Sarees
 
 Show me Yellow Banarasi Saree under ₹75,000
+
 Show Orange Banarasi Saree from Myntra
+
 Show Red Silk Saree with rating above 4.5
+
 Show Blue Cotton Saree under ₹2,000
+
 Show Green Chiffon Saree from Ajio
+
 Show White Bridal Saree from Amazon
+
 Show Designer Sarees under ₹50,000
+
 Show top-rated Kanjivaram Sarees
+
 Show Banarasi Sarees available in Free Size
 
 Maxi Dresses
 
 Show Floral Maxi Dresses under ₹3,000
+
 Show Red Maxi Dresses from Myntra
+
 Show Cotton Maxi Dresses rated above 4 stars
+
 Show Party Wear Maxi Dresses
+
 Show Blue Maxi Dresses in size M
 
 Women Dresses
 
 Show Women Dresses under ₹2,500
+
 Show Black Dresses from Nykaa Fashion
+
 Show XL size dresses rated above 4.5
+
 Show Pink Party Wear Dresses
+
 Show Cotton Dresses from Ajio
 
 Accessories
 
 Show handbags under ₹2,000
+
 Show earrings from Amazon
+
 Show necklaces rated above 4 stars
+
 Show accessories under ₹1,500
+
 Show bracelets from Myntra
+
 Show watches with rating above 4.5
 
 Electronics
 
 Show smartphones under ₹20,000
+
 Show smartwatches from Flipkart
+
 Show wireless earbuds rated above 4 stars
+
 Show electronics from Amazon
+
 Show top-rated electronics under ₹10,000
+
 Show electronics with more than 1,000 reviews
 
 Dataset Information
