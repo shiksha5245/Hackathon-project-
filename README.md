@@ -44,7 +44,7 @@ System Architecture
 
 User ↓ AI Fashion Assistant ↓ Intent Understanding ↓ Recommendation Engine ↓ Fashion Dataset ↓ Machine Learning Model ↓ Personalized Response
 
-#Technologies Used
+Technologies Used
 
 Programming
 Python
@@ -58,15 +58,19 @@ Machine Learning
 Scikit-Learn
 Random Forest Regressor
 GridSearchCV
-#AI & NLP
+
+AI & NLP
+
 Sentence Transformers
 Transformers
+
 Interface
 Gradio
+
 Architecture Design
 Graphviz
 
-#AI Assistant Capabilities
+AI Assistant Capabilities
 
 The AI Assistant understands natural language queries and recommends products based on:
 Product Category
@@ -78,9 +82,9 @@ Marketplace
 Brand
 Customer Preferences
 
-#Example Queries
+Example Queries
 
-#Sarees
+Sarees
 
 Show me Yellow Banarasi Saree under ₹75,000
 
