@@ -18,7 +18,7 @@ Understand product performance
 Predict ratings and trends
 Improve conversion rates
 
-Our Solution
+Solution
 
 We developed an AI-powered Fashion Intelligence Platform that combines:
 Fashion Analytics
@@ -79,6 +79,7 @@ Brand
 Customer Preferences
 
 Example Queries
+
 Sarees
 
 Show me Yellow Banarasi Saree under ₹75,000
